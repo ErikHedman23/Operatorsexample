@@ -60,6 +60,8 @@ namespace operatorsexample
 
             bool lessThanOrEqual = e <= f; // 
 
+            Console.WriteLine(!isEqual); //gives the opposite value 
+
             //Logical Operators
             bool result_1 = a == 5 && b < 5; //checks if both conditions are true; && == "and"; both values have to be true to be true
 
@@ -71,6 +73,10 @@ namespace operatorsexample
             int notNullNum = possiblyNullValue ?? 500; //?? checks to see if variable is null and if it is; then, it will assign the 500 given value to the variable
 
             Console.WriteLine(possiblyNullValue);
+
+            //Null Conditional Operator
+            string name = null;
+            int nameLength = name?.Length ?? 0;
 
 
 
