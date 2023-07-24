@@ -1,0 +1,15 @@
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\bin\Debug\net7.0\operatorsexample.exe
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\bin\Debug\net7.0\operatorsexample.deps.json
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\bin\Debug\net7.0\operatorsexample.runtimeconfig.json
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\bin\Debug\net7.0\operatorsexample.dll
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\bin\Debug\net7.0\operatorsexample.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.csproj.AssemblyReference.cache
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.AssemblyInfoInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.AssemblyInfo.cs
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.csproj.CoreCompileInputs.cache
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.dll
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\refint\operatorsexample.dll
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.pdb
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\operatorsexample.genruntimeconfig.cache
+C:\Users\erikd\OneDrive\Desktop\repos\operatorsexample\operatorsexample\obj\Debug\net7.0\ref\operatorsexample.dll
